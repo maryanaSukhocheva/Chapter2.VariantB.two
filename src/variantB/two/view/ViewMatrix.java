@@ -2,13 +2,9 @@ package variantB.two.view;
 import variantB.two.model.Matrix;
 /**
  *
- * @author user
+ * @author Sukhocheva Maryana
  */
 public class ViewMatrix {
-
-     /*
-     * Статический метод, для отрисовки матрицы
-     */
 
     public static String showMatrix(Matrix matr){
         String PrintM = "Matrix:\n"; 
